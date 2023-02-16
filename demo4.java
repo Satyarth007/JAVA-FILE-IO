@@ -2,7 +2,8 @@ import java.io.*;
 public class demo4 {
 	// FileWriter Class 
 	/*
-	 * We can use FileWriter to write character data to a file.
+	 
+	 We can use FileWriter to write character data to a file.
 	 
 	   CONSTRUCTORS:-
 	   ------------
