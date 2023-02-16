@@ -10,8 +10,7 @@ public class demo6 {
 	 	1. BufferedWriter bw = new BufferedWriter(Writer w);
 	 	2. BufferedWriter bw = new BufferedWriter(Writer w, int bufferSize);
 	 	
-NOTE:- BufferedWriter can't communicate with the file directly, it communicates via some
-	   filewriter object.
+NOTE:- BufferedWriter can't communicate with the file directly, it communicates via some filewriter object.
 	   
 	   METHODS:-
 	   -------
